@@ -23,7 +23,11 @@
     },
     "web": {
       "output": "static",
-      "favicon": "./assets/images/favicon.png"
+      "favicon": "./assets/images/favicon.png",
+      "name": "Heho",
+      "shortName": "Heho",
+      "themeColor": "#2563eb",
+      "backgroundColor": "#ffffff"
     },
     "plugins": [
       "expo-router",
