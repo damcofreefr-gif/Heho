@@ -45,7 +45,7 @@
       "reactCompiler": true
     },
     "extra": {
-      "publicAppUrl": ""
+      "publicAppUrl": "https://heho-one.vercel.app/"
     }
   }
 }
