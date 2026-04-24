@@ -27,6 +27,7 @@ yarn-debug.*
 yarn-error.*
 .expo-web.log
 .expo-web.err.log
+share-qr.png
 
 # macOS
 .DS_Store
