@@ -117,8 +117,8 @@ export default function SettingsScreen() {
       <View style={styles.card}>
         <Text style={styles.cardTitle}>Installer sur le telephone</Text>
         <Text style={styles.step}>1. Ouvre le lien ou scanne le QR code sur ton mobile.</Text>
-        <Text style={styles.step}>2. Sur Android Chrome, ouvre le menu puis "Ajouter a l&apos;ecran d&apos;accueil".</Text>
-        <Text style={styles.step}>3. Sur iPhone Safari, touche Partager puis "Sur l&apos;ecran d&apos;accueil".</Text>
+        <Text style={styles.step}>2. Sur Android Chrome, ouvre le menu puis &quot;Ajouter a l&apos;ecran d&apos;accueil&quot;.</Text>
+        <Text style={styles.step}>3. Sur iPhone Safari, touche Partager puis &quot;Sur l&apos;ecran d&apos;accueil&quot;.</Text>
         <Text style={styles.step}>4. L&apos;appli s&apos;ouvrira ensuite comme une mini appli depuis l&apos;icone.</Text>
       </View>
 
